@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 
 # Angular Appointment Scheduler
-[ScreenShot](./screen/Screenshot.png)
+<img src="screen/Screenshot.png">
 
 This Angular application allows users to create and manage appointments.
 
