@@ -1,0 +1,27 @@
+.card-header {
+    background: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 100%);
+}
+
+.card-body {
+    background: linear-gradient(135deg, #85aaff 0%, #69a3f6 100%);
+}
+
+.btn-primary {
+    background-color: #f56991;
+    border-color: #f56991;
+}
+
+.btn-primary:hover {
+    background-color: #ff85a1;
+    border-color: #ff85a1;
+}
+
+.btn-danger {
+    background-color: #69a3f6;
+    border-color: #69a3f6;
+}
+
+.btn-danger:hover {
+    background-color: #85aaff;
+    border-color: #85aaff;
+}
