@@ -1,4 +1,3 @@
-
 # Angular Appointment Scheduler
 <img src="screen/Screenshot.png">
 
